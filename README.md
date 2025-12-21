@@ -6,7 +6,7 @@ Download the latest version for your platform below.
 
 ## Latest Release
 
-**v1.0.0** - 2025-12-20
+**v1.0.1** - 2025-12-21
 
 ## System Requirements
 
@@ -27,8 +27,3 @@ Coming soon
 - **Arrange**: Compose objects and generate backgrounds
 - **Extract**: Extract objects from images using local AI
 
-## Changelog
-
-### v1.0.0 (2025-12-20)
-
-First release of Bach AI image editor.
