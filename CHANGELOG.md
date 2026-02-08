@@ -1,5 +1,8 @@
+## 1.1.2
+* Upgrade the inference library to avoid a memory leak issue in Windows and Linux
+
 ## 1.1.1
-* Fix a critiacal bug related to inference library upgrade
+* Fix a critical bug related to the inference library upgrade
 * Change the display template generation message
 
 ## 1.1.0
